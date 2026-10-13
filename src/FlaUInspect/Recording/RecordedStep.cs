@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace XplorePlane.UiTests.Recording;
+namespace FlaUInspect.Recording;
 
 public enum RecordedAction
 {

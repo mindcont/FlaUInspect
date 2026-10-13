@@ -1,7 +1,5 @@
 using System.IO;
 using FlaUI.Core;
-using XplorePlane.UiTests.Recording;
-
 namespace FlaUInspect.Recording;
 
 internal sealed class RecordingController : IDisposable

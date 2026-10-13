@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using FlaUI.Core.AutomationElements;
 
-namespace XplorePlane.UiTests.Recording;
+namespace FlaUInspect.Recording;
 
 internal static class UiElementDescriptorFactory
 {

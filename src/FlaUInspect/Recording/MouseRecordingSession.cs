@@ -7,7 +7,7 @@ using FlaUI.Core;
 using FlaUI.Core.AutomationElements;
 using FlaUI.Core.Definitions;
 using FlaUI.UIA3;
-using XplorePlane.UiTests.Recording;
+namespace FlaUInspect.Recording;
 
 internal sealed class MouseRecordingSession : IDisposable
 {

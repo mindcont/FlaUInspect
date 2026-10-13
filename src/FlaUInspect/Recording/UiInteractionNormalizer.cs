@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace XplorePlane.UiTests.Recording;
+namespace FlaUInspect.Recording;
 
 public sealed class UiInteractionNormalizer
 {

@@ -7,7 +7,7 @@ using System.Text.Json.Serialization;
 using FlaUI.Core.AutomationElements;
 using FlaUI.Core.Capturing;
 
-namespace XplorePlane.UiTests.Recording;
+namespace FlaUInspect.Recording;
 
 /// <summary>
 /// 第一阶段的半自动录制器：由测试或人工录制工具明确调用 Record* 方法，
